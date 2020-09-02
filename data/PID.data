@@ -1,0 +1,4 @@
+classes = 13
+train = test.txt
+valid = val.txt
+names = Classeses.names
